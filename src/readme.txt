@@ -6,8 +6,8 @@ pip install numpy pandas scikit-learn matplotlib jupyter scipy
 # Create virtual environment
 python -m venv .venv
 
-# Install packages
-pip install -r requirements.txt
-
 # Activate virtual environment
 .venv\Scripts\activate
+
+# Install packages
+pip install -r requirements.txt
